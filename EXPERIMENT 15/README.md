@@ -26,6 +26,7 @@ The following equipment and components were used:
 # III. Procedure
 
 ## Part A – Generating an ASK Signal
+<img width="778" height="487" alt="image" src="https://github.com/user-attachments/assets/cb133013-c6b7-4e8f-b32d-71c9d0f32ebf" />
 
 1. Gather all the required equipment and components.
 2. Set up the oscilloscope according to the instructions in the previous experiment.
@@ -36,10 +37,15 @@ The following equipment and components were used:
 7. Connect the setup as shown in the ASK signal generation diagram.
 8. Observe the **Sequence Generator module output** and the **ASK signal output** on the oscilloscope.
 9. Compare the signals.
+    
+<img width="727" height="544" alt="image" src="https://github.com/user-attachments/assets/4b8c876f-dee4-42ba-9f11-913a88a0f861" />
+
+<img width="721" height="549" alt="image" src="https://github.com/user-attachments/assets/2da1e053-c827-4f86-b539-88f8745dfaa0" />
 
 ---
 
 ## Part B – Demodulating an ASK Signal Using an Envelope Detector
+<img width="741" height="399" alt="image" src="https://github.com/user-attachments/assets/5b03a072-bdf7-4b29-85f1-602b69f44eee" />
 
 1. Modify the setup to include an **envelope detector**.
 2. Locate the **Tunable Low Pass Filter module**.
@@ -49,9 +55,12 @@ The following equipment and components were used:
 6. Observe the **demodulated ASK signal** using the oscilloscope.
 7. Compare the recovered signal with the original digital signal.
 
+<img width="643" height="485" alt="image" src="https://github.com/user-attachments/assets/c050e799-b33a-4268-a0f7-4069a2c630f9" />
+
 ---
 
 ## Part C – Restoring the Recovered Digital Signal Using a Comparator
+<img width="842" height="448" alt="image" src="https://github.com/user-attachments/assets/4076cd90-5ba3-4917-bc2d-fe7f975102be" />
 
 1. Modify the setup to include a **comparator module**.
 2. Connect the **envelope detector output** to the **comparator input**.
@@ -59,6 +68,7 @@ The following equipment and components were used:
 4. Observe the comparator output on the oscilloscope.
 5. Compare the **original digital signal** with the **restored digital signal**.
 6. Adjust the comparator threshold if necessary.
+<img width="722" height="543" alt="image" src="https://github.com/user-attachments/assets/7dfba2b1-2b44-4a90-b5af-afa2fb334ef7" />
 
 ---
 
@@ -71,6 +81,10 @@ In this part of the experiment, an **Amplitude Shift Keying (ASK)** signal was g
 When the digital signal was **logic 1**, the carrier signal appeared at the output as a sinusoidal waveform. When the digital signal was **logic 0**, the carrier signal was blocked and the output voltage became approximately **0 V**.
 
 This produced bursts of sinusoidal signals corresponding to the digital data stream.
+<img width="727" height="544" alt="image" src="https://github.com/user-attachments/assets/44e14f18-cf2c-49c9-97bb-bd2d8b8a6397" />
+
+<img width="721" height="549" alt="image" src="https://github.com/user-attachments/assets/848e965d-3c6f-419a-b19b-2cd4ff321611" />
+
 
 ### Answers
 
@@ -89,6 +103,7 @@ The ASK waveform shows bursts of a sinusoidal carrier whose amplitude changes de
 In this part, the ASK signal was demodulated using an **envelope detector**, which consisted of a rectifier and a low-pass filter. The envelope detector extracts the amplitude variations of the ASK signal, which correspond to the original digital information.
 
 The recovered waveform resembled the original digital signal, but it did not have sharp transitions. Instead, the waveform showed **slow rising and falling edges**.
+<img width="643" height="485" alt="image" src="https://github.com/user-attachments/assets/4f86cb24-979e-4275-b1e5-430bdf47c0ba" />
 
 ### Answers
 
@@ -115,6 +130,7 @@ In the final stage of the experiment, a **comparator** was used to restore the d
 When the input signal exceeds the reference voltage, the output becomes **logic high**. When the signal falls below the reference level, the output becomes **logic low**.
 
 This converts the distorted waveform into a **clean digital signal with sharp transitions**.
+<img width="722" height="543" alt="image" src="https://github.com/user-attachments/assets/030d5703-9a92-4204-a9bb-2e3eb01e0a92" />
 
 ### Answer
 
