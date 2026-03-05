@@ -64,7 +64,7 @@
 4. Record observations (shape changes, amplitude variation, pulse sampling behavior).
 
 ### VIDEO OUTPUT
-(videos/speech_sampling.mp4)
+(EXPERIMENT 11/VIDEOS/PAGE 11-9 FIG 6 OUTPUT.MOV)
 ---
 
 ### Part C – Reconstructing a Sampled Message
