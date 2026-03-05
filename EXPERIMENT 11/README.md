@@ -63,6 +63,8 @@
 3. Observe the sampled speech waveform on the oscilloscope while speaking.
 4. Record observations (shape changes, amplitude variation, pulse sampling behavior).
 
+### VIDEO OUTPUT
+(videos/speech_sampling.mp4)
 ---
 
 ### Part C – Reconstructing a Sampled Message
