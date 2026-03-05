@@ -109,6 +109,8 @@
 ## IV. RESULTS AND DISCUSSION
 
 ### A. Natural Sampling Result
+<img width="765" height="583" alt="image" src="https://github.com/user-attachments/assets/874c1156-204c-4046-90a0-f61ed1a5871d" />
+
 **Observed behavior:** The sampled waveform appears as pulses whose amplitudes follow the original sinewave envelope.
 
 **Why this confirms natural sampling:**
@@ -120,6 +122,9 @@
 ---
 
 ### B. Sample-and-Hold Result
+<img width="528" height="394" alt="image" src="https://github.com/user-attachments/assets/5cf29303-b3c2-4401-8931-676a3ed2a853" />
+
+<img width="508" height="384" alt="image" src="https://github.com/user-attachments/assets/49faf237-a969-4e13-8e00-0442efd0c920" />
 **Observed behavior:** The sampled waveform resembles a **staircase / stepped** signal.
 
 **Why this confirms sample-and-hold:**
@@ -131,6 +136,7 @@
 ---
 
 ### C. Reconstruction Result
+<img width="580" height="437" alt="image" src="https://github.com/user-attachments/assets/a31d8feb-3711-4923-a025-67991b698b71" />
 **Observed behavior:** Passing the sampled signal through a low-pass filter produces a smooth waveform resembling the original message.
 
 **Explanation:**  
@@ -141,6 +147,7 @@ Sampling introduces high-frequency components (images). A **low-pass filter** re
 ---
 
 ### D. Aliasing Result
+<img width="765" height="569" alt="image" src="https://github.com/user-attachments/assets/ad3593de-6547-45d5-8236-81bda72b16e5" />
 **Observed behavior:** As sampling frequency decreases, the reconstructed signal becomes distorted.
 
 **Distortion name:** **Aliasing**
