@@ -1,5 +1,4 @@
-# Lab Report: Experiment 19 - DSSS Modulation and Demodulation
-
+# EXPERIMENT 19: DSSS MODULATION AND DEMODULATION
 ## I. OBJECTIVES
 * To demonstrate the principles of Direct Sequence Spread Spectrum (DSSS) modulation.
 * To observe the spreading of a baseband signal's bandwidth using a pseudo-noise (PN) sequence.
