@@ -31,7 +31,8 @@
 > **Note:** This is organized as a guide-style procedure (step-by-step), based on the experiment module and your setup photos.
 
 ### Part A – Sampling a Simple Message (Natural Sampling)
-BLOCK DIAGRAM
+
+### BLOCK DIAGRAM
 <img width="765" height="504" alt="image" src="https://github.com/user-attachments/assets/6bbe19ba-b5e3-445c-a670-5602fdcc6465" />
 
 1. Gather all required equipment and modules.
@@ -44,13 +45,13 @@ BLOCK DIAGRAM
 4. Adjust oscilloscope settings to clearly view both waveforms.
 5. Observe and record the waveform behavior of the sampled signal.
 
-OUTPUT
+### OUTPUT
 <img width="765" height="583" alt="image" src="https://github.com/user-attachments/assets/557b0c20-5dac-455c-adce-28d6e5e77851" />
 
-BLOCK DIAGRAM
+### BLOCK DIAGRAM
 <img width="765" height="598" alt="image" src="https://github.com/user-attachments/assets/af56993a-5c56-49ce-ba09-3dc266eaa60f" />
 
-OUTPUT
+### OUTPUT
 <img width="765" height="581" alt="image" src="https://github.com/user-attachments/assets/6311642c-594a-498c-8c32-bf3a1e14d4ff" />
 
 ---
@@ -66,7 +67,7 @@ OUTPUT
 
 ### Part C – Reconstructing a Sampled Message
 
-BLOCK DIAGRAM
+### BLOCK DIAGRAM
 <img width="765" height="557" alt="image" src="https://github.com/user-attachments/assets/a310c423-9816-4ec9-b191-759ae62ff5a1" />
 
 
@@ -83,7 +84,7 @@ BLOCK DIAGRAM
 
 ### Part D – Aliasing
 
-BLOCK DIAGRAM
+### BLOCK DIAGRAM
 <img width="765" height="553" alt="image" src="https://github.com/user-attachments/assets/f4a9d8ab-ff81-41dd-b111-bdedd78a31bb" />
 
 1. Replace the fixed sampling signal with the **VCO module** (variable frequency).
@@ -92,7 +93,7 @@ BLOCK DIAGRAM
 4. Note the point where distortion appears and identify it as **aliasing**.
 5. Measure the VCO output period and compute frequency for the table if required.
 
-OUTPUT
+### OUTPUT
 <img width="765" height="569" alt="image" src="https://github.com/user-attachments/assets/ad3593de-6547-45d5-8236-81bda72b16e5" />
 
 
