@@ -28,6 +28,7 @@ These instruments were used to generate, observe, and analyze the FSK signal and
 # III. Procedure
 
 ## Part A – Generating an FSK Signal
+<img width="749" height="512" alt="image" src="https://github.com/user-attachments/assets/5d3add0a-be76-43cf-9a93-d94195615e3f" />
 
 1. Gather all required equipment listed in the materials section.
 2. Set up the oscilloscope according to the instructions from the previous experiment.
@@ -43,9 +44,12 @@ These instruments were used to generate, observe, and analyze the FSK signal and
 12. Turn on the trainer and observe the digital signal and FSK output on the oscilloscope.
 13. Compare the digital input signal with the generated FSK waveform.
 
+<img width="728" height="551" alt="image" src="https://github.com/user-attachments/assets/0054b952-1ae6-4969-b61c-3dbe13347d39" />
+
 ---
 
 ## Part B – Demodulating an FSK Signal Using Filtering and an Envelope Detector
+<img width="675" height="297" alt="image" src="https://github.com/user-attachments/assets/847070e6-8308-41e3-8d01-7411cc3afbe2" />
 
 1. Modify the setup to include a **Tunable Low Pass Filter (LPF)** module.
 2. Turn the VCO module’s **Frequency Adjust control** to approximately position 2 on the scale.
@@ -55,10 +59,14 @@ These instruments were used to generate, observe, and analyze the FSK signal and
 6. Slowly adjust the LPF cut-off frequency until the higher frequency component of the FSK signal becomes close to zero.
 7. Observe the **digital signal and filtered output** on the oscilloscope.
 8. Compare the signals displayed on Channel 1 and Channel 2.
+<img width="664" height="498" alt="image" src="https://github.com/user-attachments/assets/e789f997-895e-45d0-8221-b2e1e3802bb0" />
+
+<img width="713" height="583" alt="image" src="https://github.com/user-attachments/assets/73696d3a-a4e2-40da-a1fd-06df7da8c45e" />
 
 ---
 
 ## Part C – Restoring the Recovered Data Using a Comparator
+<img width="776" height="319" alt="image" src="https://github.com/user-attachments/assets/efeacbbf-5701-48aa-9aa8-d506a498db5b" />
 
 1. Modify the setup again to include a **Comparator module**.
 2. Connect the output of the envelope detector to the **Comparator input**.
@@ -66,6 +74,8 @@ These instruments were used to generate, observe, and analyze the FSK signal and
 4. Observe the comparator output on the oscilloscope.
 5. Compare the restored digital signal with the original digital signal.
 6. Slightly adjust the reference voltage if needed to obtain a clean digital waveform.
+
+<img width="719" height="537" alt="image" src="https://github.com/user-attachments/assets/5ea03c80-49e9-492a-a5f8-231fc441b5ac" />
 
 ---
 
@@ -78,6 +88,7 @@ During the first part of the experiment, the Sequence Generator produced a digit
 When the digital signal was **logic-1**, the VCO produced a sinewave with a certain frequency called the **Mark Frequency**. When the digital signal changed to **logic-0**, the VCO output switched to a different sinewave frequency called the **Space Frequency**.
 
 This switching between two different frequencies represents the **Frequency Shift Keying (FSK)** modulation process. Instead of varying amplitude, the system transmits digital information by switching the **frequency of the carrier signal**.
+<img width="728" height="551" alt="image" src="https://github.com/user-attachments/assets/ae99c460-3923-490b-98e1-dc64b93219f1" />
 
 ### Answers
 
@@ -105,6 +116,10 @@ When this filtering process occurred, the output waveform showed bursts of sinew
 
 This filtered signal resembled an amplitude-modulated waveform where the presence of the selected frequency indicated a digital logic state.
 
+<img width="664" height="498" alt="image" src="https://github.com/user-attachments/assets/e789f997-895e-45d0-8221-b2e1e3802bb0" />
+
+<img width="713" height="583" alt="image" src="https://github.com/user-attachments/assets/4cec980f-5f1c-40af-8102-7cd71f237ee3" />
+
 ### Answers
 
 **Which of the FSK signal’s two sinewaves is the filter picking out?**
@@ -130,6 +145,7 @@ To restore the signal into a clean digital waveform, a **Comparator module** was
 When the input signal rises above the reference voltage, the comparator outputs a **logic high**. When the input signal falls below the reference voltage, the comparator outputs a **logic low**.
 
 This process converts the distorted analog signal into a clean square-wave digital signal.
+<img width="719" height="537" alt="image" src="https://github.com/user-attachments/assets/0ad600a7-3660-44cc-a7d5-81903295b833" />
 
 ### Answer
 
