@@ -37,6 +37,8 @@ The following equipment and modules were used in this experiment.
 # III. PROCEDURE
 
 ## Part A – Introduction to PCM Decoding
+<img width="723" height="544" alt="image" src="https://github.com/user-attachments/assets/b336dd06-896d-4a35-9329-506fc59dcaad" />
+<img width="517" height="409" alt="image" src="https://github.com/user-attachments/assets/4134026e-03cc-4f70-92a5-3738e1d9470c" />
 
 1. Gather the equipment listed in the materials section.
 
@@ -59,9 +61,14 @@ The following equipment and modules were used in this experiment.
 
 8. Sketch or record the waveforms.
 
+<img width="676" height="516" alt="image" src="https://github.com/user-attachments/assets/fa890f57-0158-42b7-9465-8c867cd85f73" />
+
+<img width="778" height="643" alt="image" src="https://github.com/user-attachments/assets/1e112832-77b5-41c6-a8f6-cfdf714ce683" />
+
 ---
 
 ## Part B – Decoding a Static Voltage Signal
+<img width="662" height="404" alt="image" src="https://github.com/user-attachments/assets/96528b2c-7544-442e-b9b6-0a91cc4c4f6a" />
 
 1. Connect the **Variable DC Voltage module** to the PCM Encoder input.
 
@@ -75,6 +82,7 @@ The following equipment and modules were used in this experiment.
    - Input DC voltage
    - PCM binary code
    - Decoded output voltage.
+<img width="627" height="491" alt="image" src="https://github.com/user-attachments/assets/64f3cd79-44a0-46f8-83e0-68ad54669b68" />
 
 ---
 
@@ -97,6 +105,7 @@ The following equipment and modules were used in this experiment.
 ---
 
 ## Part D – Signal Reconstruction
+<img width="778" height="386" alt="image" src="https://github.com/user-attachments/assets/133acba1-1e8c-480a-b0ec-bfe695c4ac22" />
 
 1. Pass the PCM Decoder output through a **low-pass filter module**.
 
@@ -105,6 +114,7 @@ The following equipment and modules were used in this experiment.
 3. Compare the filtered output signal with the original input signal.
 
 4. Adjust the filter cutoff frequency and observe its effect on signal reconstruction.
+<img width="654" height="501" alt="image" src="https://github.com/user-attachments/assets/42198469-1be4-4a9f-8e34-2d1f5336f9f5" />
 
 ---
 
@@ -119,6 +129,14 @@ When the input voltage was varied gradually, the decoder output changed in discr
 When a continuously varying input signal was applied, the PCM decoder produced a staircase-like waveform corresponding to the sampled and quantized input signal. Passing this waveform through a low-pass filter smoothed the output, resulting in a signal that closely resembled the original analog waveform.
 
 This experiment highlighted the importance of the PCM decoding process in digital communication systems, where digital signals must be accurately converted back into analog form for practical use.
+
+<img width="723" height="544" alt="image" src="https://github.com/user-attachments/assets/382bfa5c-0bdb-4d2d-9135-f18818fdc083" />
+
+<img width="676" height="516" alt="image" src="https://github.com/user-attachments/assets/53fac087-92ae-4217-9849-d222cd933618" />
+
+<img width="627" height="491" alt="image" src="https://github.com/user-attachments/assets/df53f7cf-edd7-49bb-a2d6-db00d1d9fc8d" />
+
+<img width="654" height="501" alt="image" src="https://github.com/user-attachments/assets/a70a846c-0b34-439c-a468-609e8dd2eb15" />
 
 ---
 
