@@ -32,6 +32,9 @@ These components are required to construct the PCM communication system and obse
 # III. PROCEDURE
 
 ## Part A – The Effects of Bandwidth Limiting on PCM Decoding
+<img width="784" height="403" alt="image" src="https://github.com/user-attachments/assets/d4f48704-770a-48ea-bdc7-a9afaa28020e" />
+
+<img width="780" height="323" alt="image" src="https://github.com/user-attachments/assets/04f353d8-6dc7-4e87-a0db-1f6f322b3805" />
 
 1. Gather all equipment listed in the materials section.
 
@@ -58,10 +61,12 @@ These components are required to construct the PCM communication system and obse
 12. Observe how reducing the bandwidth affects the PCM Decoder output.
 
 13. Record the waveform and note the errors produced in the decoded signal.
+<img width="708" height="531" alt="image" src="https://github.com/user-attachments/assets/5d60f87c-1269-44ec-9225-2de906fd069e" />
 
 ---
 
 ## Part B – The Effects of Bandwidth Limiting on a Digital Signal’s Shape
+<img width="763" height="376" alt="image" src="https://github.com/user-attachments/assets/f450ab16-9245-4147-9106-eb5941327e61" />
 
 1. Disconnect the previous setup and configure the system according to the **Digital Signal Modelling block diagram**.
 
@@ -80,6 +85,9 @@ These components are required to construct the PCM communication system and obse
 8. Note that the signal transitions become slower and the waveform begins to resemble a sinusoidal shape.
 
 9. Compare the original digital signal with the bandwidth-limited signal.
+
+<img width="579" height="449" alt="image" src="https://github.com/user-attachments/assets/c0c3ba11-4f43-41e6-b49a-f77d971e93d4" />
+<img width="751" height="367" alt="image" src="https://github.com/user-attachments/assets/947c5c47-e1cc-4839-a132-7f0a2802384b" />
 
 ---
 
@@ -103,6 +111,9 @@ These components are required to construct the PCM communication system and obse
 
 9. Record the restored waveform and compare it with the original signal.
 
+<img width="688" height="516" alt="image" src="https://github.com/user-attachments/assets/117da98b-983b-4bc0-8529-b13d19618c56" />
+<img width="775" height="381" alt="image" src="https://github.com/user-attachments/assets/76704981-e88a-4fb4-ae42-875a8d9b5b84" />
+
 ---
 
 # IV. RESULTS AND DISCUSSION
@@ -116,6 +127,10 @@ In Part B, the shape of the digital signal changed significantly when passed thr
 In Part C, the distorted digital signal was restored using a comparator. The comparator acted as a threshold detector, converting the distorted waveform back into a digital square wave. Although the restored signal closely resembled the original signal, slight differences remained due to delays and signal distortion.
 
 Overall, the experiment showed that bandwidth limitations can significantly degrade digital signals, but restoration techniques such as threshold detection can recover the signal for proper decoding.
+
+<img width="708" height="531" alt="image" src="https://github.com/user-attachments/assets/39168404-26b0-4dae-bda6-c87e69e647a3" />
+
+<img width="688" height="516" alt="image" src="https://github.com/user-attachments/assets/229b6411-841e-4742-bf8b-2f10c67c79e2" />
 
 ---
 
