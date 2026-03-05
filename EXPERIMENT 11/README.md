@@ -31,6 +31,7 @@
 > **Note:** This is organized as a guide-style procedure (step-by-step), based on the experiment module and your setup photos.
 
 ### Part A – Sampling a Simple Message (Natural Sampling)
+<img width="765" height="504" alt="image" src="https://github.com/user-attachments/assets/6bbe19ba-b5e3-445c-a670-5602fdcc6465" />
 
 1. Gather all required equipment and modules.
 2. Construct the **natural sampling setup** using the Dual Analog Switch:
@@ -41,6 +42,7 @@
    - **CH2:** sampled message output
 4. Adjust oscilloscope settings to clearly view both waveforms.
 5. Observe and record the waveform behavior of the sampled signal.
+<img width="765" height="583" alt="image" src="https://github.com/user-attachments/assets/557b0c20-5dac-455c-adce-28d6e5e77851" />
 
 ---
 
