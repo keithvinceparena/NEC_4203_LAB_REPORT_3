@@ -169,11 +169,7 @@ The **Frame Synchronization (FS)** signal and **clock signal** played an importa
 
 <img width="745" height="562" alt="image" src="https://github.com/user-attachments/assets/2c92466d-0a5f-4322-9b5f-33158624bd09" />
 
-<img width="725" height="671" alt="image" src="https://github.com/user-attachments/assets/5788b55f-137d-4091-9151-77be7c3a562d" />
-
 <img width="727" height="551" alt="image" src="https://github.com/user-attachments/assets/da9477be-a0f6-4ab7-9768-4bf49d3b6771" />
-
-<img width="720" height="613" alt="image" src="https://github.com/user-attachments/assets/f1b55a65-81d8-4010-9a5d-28009c57997b" />
 
 <img width="729" height="547" alt="image" src="https://github.com/user-attachments/assets/0d59bf43-26f6-42a3-ac75-be45e732ce27" />
 
