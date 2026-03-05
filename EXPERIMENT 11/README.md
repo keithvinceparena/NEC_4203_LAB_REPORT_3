@@ -65,7 +65,7 @@
 
 ### VIDEO OUTPUT
 
-▶ [Watch Video](videos/PAGE%2011-9%20FIG%206%20OUTPUT.MOV)
+▶ [Watch Video](VIDEOS/PAGE%2011-9%20FIG%206%20OUTPUT.MOV)
 ---
 
 ### Part C – Reconstructing a Sampled Message
