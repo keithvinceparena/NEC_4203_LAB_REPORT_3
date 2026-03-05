@@ -63,9 +63,11 @@
 3. Observe the sampled speech waveform on the oscilloscope while speaking.
 4. Record observations (shape changes, amplitude variation, pulse sampling behavior).
 
-### VIDEO OUTPUT
+### OUTPUT
+<img width="528" height="394" alt="image" src="https://github.com/user-attachments/assets/5cf29303-b3c2-4401-8931-676a3ed2a853" />
 
-▶ [Watch Video](VIDEOS/PAGE%2011-9%20FIG%206%20OUTPUT.MOV)
+<img width="508" height="384" alt="image" src="https://github.com/user-attachments/assets/49faf237-a969-4e13-8e00-0442efd0c920" />
+
 ---
 
 ### Part C – Reconstructing a Sampled Message
@@ -83,6 +85,9 @@
 4. Slowly increase the cut-off frequency clockwise until the **message is reconstructed**.
 5. Record the reconstructed waveform and compare with the original message.
 
+### OUTPUT
+<img width="580" height="437" alt="image" src="https://github.com/user-attachments/assets/a31d8feb-3711-4923-a025-67991b698b71" />
+
 ---
 
 ### Part D – Aliasing
@@ -98,7 +103,6 @@
 
 ### OUTPUT
 <img width="765" height="569" alt="image" src="https://github.com/user-attachments/assets/ad3593de-6547-45d5-8236-81bda72b16e5" />
-
 
 ---
 
